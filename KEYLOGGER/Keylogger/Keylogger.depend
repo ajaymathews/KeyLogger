@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1589056204 source:c:\users\ajay\documents\programs\cpp_pgms\proj\keylogger\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+
+1588800412 c:\users\ajay\documents\programs\cpp_pgms\proj\keylogger\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1588800775 c:\users\ajay\documents\programs\cpp_pgms\proj\keylogger\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1589056175 c:\users\ajay\documents\programs\cpp_pgms\proj\keylogger\keylogger\base64.h
+	<vector>
+	<string>
+
